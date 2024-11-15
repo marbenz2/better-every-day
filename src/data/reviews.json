@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "name": "Sarah Johnson",
+      "position": "Sustainability Coordinator",
+      "company": "EcoBright Solutions",
+      "companyLogo": "/images/reviews/companies/brighttech.svg",
+      "quote": "This platform has completely changed how I incorporate sustainable practices into my daily life. The daily reminders and the eco-focused community inspire me to make positive changes every day. I can't imagine a better tool for building a greener lifestyle!",
+      "photo": "/images/reviews/persons/person1.jpg"
+    },
+    {
+      "name": "Michael Lee",
+      "position": "Freelance Eco Consultant",
+      "company": "Independent",
+      "companyLogo": "/images/reviews/companies/independent.svg",
+      "quote": "I always wanted to lead a more sustainable life but struggled with consistency. This tool has given me clear, achievable goals and a way to track my eco progress. It's incredibly motivating to see my impact grow over time.",
+      "photo": "/images/reviews/persons/person2.jpg"
+    },
+    {
+      "name": "Alex Ramirez",
+      "position": "Corporate Social Responsibility Specialist",
+      "company": "GreenBridge Corp",
+      "companyLogo": "/images/reviews/companies/talentbridge.svg",
+      "quote": "The platform feels like a mix of a personal sustainability coach and a community of like-minded individuals. The goal-setting tools and regular check-ins have helped me make tangible, lasting contributions to a greener world.",
+      "photo": "/images/reviews/persons/person3.jpg"
+    }
+  ]
+}

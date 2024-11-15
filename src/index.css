@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(/fonts/Roboto.woff2) format("woff2");
+  }
+}
+
+html,
+body {
+  @apply scroll-smooth;
+}
+
+body {
+  @apply bg-neutral-100 text-neutral-900 font-quicksand w-full h-full;
+}
+
+a {
+  @apply hover:text-green-500 transition-colors duration-300;
+}

@@ -1,0 +1,15 @@
+{
+  "navLinks": [
+    { "title": "Product", "href": "#platform-benefits" },
+    { "title": "Pricing", "href": "#pricing" },
+    { "title": "Customers", "href": "#trusted-by" }
+  ],
+  "links": [
+    { "title": "Action", "href": "#action" },
+    { "title": "Benefits", "href": "#benefits" },
+    { "title": "Trusted by", "href": "#trusted-by" },
+    { "title": "Reviews", "href": "#reviews" },
+    { "title": "Platform Benefits", "href": "#platform-benefits" },
+    { "title": "Take Action", "href": "#take-action" }
+  ]
+}

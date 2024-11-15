@@ -1,0 +1,80 @@
+{
+  "benefits": [
+    {
+      "title": "Daily Sustainability Inspiration",
+      "description": "Receive daily tips and reminders to make eco-friendly choices that contribute to a healthier planet. Each message inspires you to incorporate sustainable actions into your daily life, helping you make a positive impact, one step at a time.",
+      "icon": "/images/benefits/start.webp",
+      "badges": ["Eco-Friendly", "Inspiration", "Positive Impact"]
+    },
+    {
+      "title": "Track Your Eco Progress",
+      "description": "Monitor your sustainable journey with a comprehensive tracking system that records your actions and milestones. Visualize your progress over time, celebrate small eco-friendly steps, and stay motivated by seeing the positive change you’re creating.",
+      "icon": "/images/benefits/plant-a-tree.webp",
+      "badges": ["Milestones", "Eco Progress", "Motivation"]
+    },
+    {
+      "title": "Join a Green-Minded Community",
+      "description": "Connect with a community of people dedicated to sustainability. Share experiences, eco-friendly tips, and motivation with others who share your passion for the environment. Together, we hold each other accountable and celebrate our shared impact.",
+      "icon": "/images/benefits/support.webp",
+      "badges": ["Community", "Accountability", "Shared Impact"]
+    },
+    {
+      "title": "Set and Adapt Your Sustainability Goals",
+      "description": "Create meaningful, sustainable goals that fit your lifestyle and adapt them as you grow. Whether it’s reducing waste, conserving energy, or choosing eco-friendly products, our tools provide structure and flexibility to support your journey toward a greener future.",
+      "icon": "/images/benefits/success.webp",
+      "badges": ["Flexibility", "Green Goals", "Adaptability"]
+    }
+  ],
+  "platform": [
+    {
+      "title": "Extremely versatile",
+      "description": "Our platform is designed to be adaptable for all your sustainability needs. As an admin, you can customize and combine various features to align with your organization’s green goals, and personalize the look and feel to match your brand’s values. We provide a foundational structure to save you time and simplify the process. Choose from a variety of eco-focused options to set up sustainability objectives, create impactful actions, and track environmental progress.",
+      "icon": "/images/benefits/versatile.svg",
+      "badges": ["Versatile"]
+    },
+    {
+      "title": "Smart Integrations for Sustainability",
+      "description": "To streamline sustainable actions and environmental tracking, our platform connects with multiple third-party tools. Easily sync your team data with your internal systems, facilitate updates and communication on sustainability goals via Slack, and use Single Sign-On with services like Google Workspace and Okta. Stay on top of deadlines and milestones with our calendar integration, ensuring your green goals are always on track.",
+      "icon": "/images/benefits/integrations.svg",
+      "badges": ["Integrations"]
+    },
+    {
+      "title": "A customer team dedicated to sustainability",
+      "description": "Our platform is fully self-service, so you’re in control. But whenever you need assistance, feedback, or just someone to brainstorm with, our dedicated sustainability team is here for you. Connect with us via email, chat, or call – we’re passionate about helping you make a positive impact.",
+      "icon": "/images/benefits/support.svg",
+      "badges": ["Customer Team"]
+    }
+  ],
+  "more": [
+    {
+      "title": "Green Company Directory",
+      "description": "Alongside our core features, our platform includes a free company directory and a browsable org chart. This tool keeps your team connected and aligned on sustainability initiatives – all in one place.",
+      "icon": "LeafIcon"
+    },
+    {
+      "title": "Global and Inclusive",
+      "description": "Our user interface is clear and accessible, and all content, forms, emails, and date formats can be customized to support any language or region, making it easy to promote sustainability goals across diverse teams.",
+      "icon": "GlobeIcon"
+    },
+    {
+      "title": "Secure and Responsible by Design",
+      "description": "We are committed to secure practices and environmental responsibility. Hosted on a secure, green cloud infrastructure, with data encryption and regular audits, we ensure that your information is safe. Explore more about our green and secure tech practices.",
+      "icon": "KeyIcon"
+    },
+    {
+      "title": "Sustainable Choices and Freedom",
+      "description": "Your data belongs to you. If you ever choose to leave, you can take all your data with you, easily exporting it for seamless transitions. We believe in transparency, fair practices, and supporting our clients every step of the way.",
+      "icon": "BirdIcon"
+    },
+    {
+      "title": "Quick Setup, Big Impact",
+      "description": "Our platform is self-service, so setup is fast and efficient, letting you start making an impact right away. And if you need guidance, our customer support team is here to ensure your sustainability journey is a success.",
+      "icon": "FastForwardIcon"
+    },
+    {
+      "title": "An Ethical Company",
+      "description": "We know that every business decision has an impact. From the energy we consume to the partnerships we choose, we are committed to ethical practices. Learn more about how we’re making a positive difference in the world.",
+      "icon": "ThumbsUpIcon"
+    }
+  ]
+}

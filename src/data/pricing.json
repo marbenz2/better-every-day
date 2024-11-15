@@ -1,0 +1,60 @@
+{
+  "pricing": [
+    {
+      "title": "Basic",
+      "price": "$1000",
+      "features": [
+        "Bis zu 5 Benutzer",
+        "10GB Cloud Speicher",
+        "E-Mail Support",
+        "Grundlegende Analysen",
+        "Mobile App Zugriff"
+      ]
+    },
+    {
+      "title": "Pro",
+      "price": "$3000",
+      "bestvalue": true,
+      "features": [
+        "Bis zu 20 Benutzer",
+        "50GB Cloud Speicher",
+        "Prioritäts-Support per Telefon & E-Mail",
+        "Erweiterte Analysen & Reporting",
+        "Mobile App Zugriff",
+        "API-Zugang",
+        "Anpassbare Dashboards",
+        "Team Collaboration Tools"
+      ]
+    },
+    {
+      "title": "Enterprise",
+      "price": "$15000",
+      "features": [
+        "Unbegrenzte Benutzer",
+        "500GB Cloud Speicher",
+        "24/7 Premium Support",
+        "Erweiterte Analysen & Reporting",
+        "Mobile App Zugriff",
+        "Vollständiger API-Zugang",
+        "Anpassbare Dashboards",
+        "Team Collaboration Tools",
+        "Dedizierter Account Manager",
+        "Single Sign-On (SSO)",
+        "Erweiterte Sicherheitsfunktionen",
+        "Individuelle Schulungen"
+      ]
+    },
+    {
+      "title": "Custom",
+      "price": "Custom",
+      "features": [
+        "Alles aus Enterprise",
+        "Maßgeschneiderte Lösungen",
+        "Individuelle Entwicklung",
+        "On-Premise Installation möglich",
+        "Service Level Agreement (SLA)",
+        "White-Label Option"
+      ]
+    }
+  ]
+}
