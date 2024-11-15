@@ -57,8 +57,8 @@ const MobileMenuContent = React.forwardRef<
     <div
       ref={ref}
       className={`absolute top-0 left-0 ${
-        isOpen ? "w-2/3" : "w-0"
-      } h-screen bg-neutral-100 border-r shadow-lg z-50 transition-all duration-300 overflow-clip`}
+        isOpen ? "w-2/3 border-r shadow-lg" : "w-0 border-r-0"
+      } h-screen bg-neutral-100 z-50 transition-all duration-300 overflow-clip`}
     >
       <ul className="flex flex-col h-full">
         <div className="flex py-8">
