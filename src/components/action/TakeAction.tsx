@@ -53,7 +53,7 @@ export default function TakeAction() {
               we can help you achieve your sustainability goals, we're here to
               help.
             </p>
-            <button className="bg-green-500 px-12 py-6 text-sm md:text-base rounded-sm font-semibold flex w-fit h-fit shrink-0 items-center gap-2 border border-green-500 hover:bg-green-400/50 transition-colors duration-300">
+            <button className="bg-green-500 px-12 py-6 text-sm md:text-base rounded-sm font-semibold flex w-fit h-fit shrink-0 items-center gap-2 border border-green-500 hover:bg-green-400/50 backdrop-blur-lg transition-colors duration-300">
               <HandshakeIcon className="w-5 h-5" />
               Contact Us
             </button>
