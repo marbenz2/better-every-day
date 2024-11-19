@@ -35,7 +35,7 @@ export default function Pricing() {
             whileInView="animate"
             viewport={viewportConfig}
             custom={index}
-            className="relative flex flex-col gap-12 px-6 py-8 md:py-12 2xl:py-16 h-full rounded-md shadow-lg overflow-clip bg-gradient-to-b from-neutral-100 via-green-50 to-green-100 z-10"
+            className="relative flex flex-col gap-12 px-6 py-8 md:py-12 2xl:py-16 h-full rounded-md shadow-lg overflow-clip z-10"
           >
             {item.bestvalue && (
               <StarIcon
@@ -58,12 +58,12 @@ export default function Pricing() {
               </ul>
             </div>
             {item.title === "Custom" && (
-              <button className="mt-auto bg-green-500 px-4 py-2 rounded-sm font-semibold border border-green-500 hover:bg-green-400/50 transition-colors duration-300">
+              <button className="mt-auto bg-green-500 px-4 py-2 rounded-sm font-semibold border border-green-500 hover:bg-green-400/50 backdrop-blur-lg transition-colors duration-300">
                 Anfrage stellen
               </button>
             )}
             {item.title !== "Custom" && (
-              <button className="mt-auto bg-green-500 px-4 py-2 rounded-sm font-semibold border border-green-500 hover:bg-green-400/50 transition-colors duration-300">
+              <button className="mt-auto bg-green-500 px-4 py-2 rounded-sm font-semibold border border-green-500 hover:bg-green-400/50 backdrop-blur-lg transition-colors duration-300">
                 Jetzt buchen
               </button>
             )}

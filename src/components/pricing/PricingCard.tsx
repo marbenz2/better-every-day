@@ -13,7 +13,7 @@ interface PricingCardProps {
 
 export default function PricingCard({ pricing }: PricingCardProps) {
   return (
-    <div className="relative flex flex-col gap-12 px-6 py-8 md:py-12 2xl:py-16 h-full rounded-md shadow-lg overflow-clip bg-gradient-to-b from-neutral-100 via-green-50 to-green-100 z-10">
+    <div className="relative flex flex-col gap-12 px-6 py-8 md:py-12 2xl:py-16 h-full rounded-md shadow-lg overflow-clip bg-gradient-to-b z-10">
       {pricing.bestvalue && (
         <StarIcon
           className="w-12 h-12 absolute top-4 right-4 fill-yellow-500 text-yellow-500 drop-shadow-lg"
@@ -35,12 +35,12 @@ export default function PricingCard({ pricing }: PricingCardProps) {
         </ul>
       </div>
       {pricing.title === "Custom" && (
-        <button className="mt-auto bg-green-500 px-4 py-2 rounded-sm font-semibold border border-green-500 hover:bg-green-400/50 transition-colors duration-300">
+        <button className="mt-auto bg-green-500 px-4 py-2 rounded-sm font-semibold border border-green-500 hover:bg-green-400/50 backdrop-blur-lg transition-colors duration-300">
           Anfrage stellen
         </button>
       )}
       {pricing.title !== "Custom" && (
-        <button className="mt-auto bg-green-500 px-4 py-2 rounded-sm font-semibold border border-green-500 hover:bg-green-400/50 transition-colors duration-300">
+        <button className="mt-auto bg-green-500 px-4 py-2 rounded-sm font-semibold border border-green-500 hover:bg-green-400/50 backdrop-blur-lg transition-colors duration-300">
           Jetzt buchen
         </button>
       )}
