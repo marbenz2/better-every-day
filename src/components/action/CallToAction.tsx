@@ -33,7 +33,7 @@ export default function CallToAction() {
           variants={containerVariantTwo}
           initial="hidden"
           animate="visible"
-          className="absolute right-0 -top-36 md:-top-0 md:relative w-full md:w-1/2 flex justify-end md:justify-center z-0"
+          className="absolute right-0 -top-36 md:-top-0 md:static w-full md:w-1/2 flex justify-end md:justify-center z-0"
         >
           <CallToImage />
         </motion.div>
